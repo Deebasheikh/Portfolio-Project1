@@ -10,6 +10,7 @@ export default function Home (){
         <Image
           src={profile}
           alt="Areeba Sheikh"
+          priority
           className="profile-img"
         />
         <h1 className="name">Areeba Sheikh</h1>
